@@ -1,7 +1,7 @@
 # Tobii Unity Basic Drawing
 Eye Tracking Emoji Drawing program in  Unity using the Tobii SDK and Framework.
 
-# Emoji Drawing Instructions
+## Emoji Drawing Instructions
 With Tobii eye tracking installed and connected:
 1. Open the project in Unity -or- launch Emoji Eye Tracker.exe
 2. Run the program
